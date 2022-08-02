@@ -1,4 +1,4 @@
-# MusicPanel
+# MusicPanel - Spotify Dashboard
 
 ## About
 
@@ -12,7 +12,7 @@ A website is yet to be created and hosted.
 
 ## Journey
 ### Inspiration
-Inspired by my current data science work as well as similar projects to this one, I wanted to put a unique dashboard spin to analyzing Spotify usage, as well as allow for broader analysis in constrast to current Spotify-related projects. I believe that such an app would be very beneficial and interesting to Spotify users, and by working on this app, I would grow as a software developer in the process.
+Inspired by my current data science work as well as similar projects to this one, I wanted to put a unique dashboard spin to analyzing Spotify usage, as well as allow for broader analysis in constrast to current Spotify-related projects. I believe that such an app would be of interest to Spotify users, and by working on this app, I would grow as a software developer in the process.
 
 ## Technology
 
