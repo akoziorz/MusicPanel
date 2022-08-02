@@ -1,4 +1,4 @@
-# Spotify Dashboard 
+# MusicPanel
 
 ## About
 
